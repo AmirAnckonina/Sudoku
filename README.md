@@ -1,9 +1,13 @@
 # Sudoku
 
-Hey! welcome to my sudoku project.
+Welcome to my Sudoku project.
 
 The project written in C language.
+
 The game session should played half by user - half by computer.
-Instead of the game flow and functionallity, you can be impressed from using of linked lists, binary trees, and other familiar data structers.
+
+Instead of building flowed and functional game, the main goal of the project is to implement the use of pointers and data structers such as linked lists, binary trees, arrayes, etc.
+
 Enjoy :)
+
 Amir.
