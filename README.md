@@ -14,7 +14,7 @@ Welcome to my Sudoku project.
 
 The project written in C language.
 
-Instead of building flowed and functional game, the main goal of the project is to implement the use of pointers and data structers such as linked lists, binary trees, arrayes, etc.
+Instead of building flowed and functional game, the main goal of the project is to implement the use of pointers and data structures such as linked lists, binary trees, arrayes, etc.
 
 Enjoy :)
 
