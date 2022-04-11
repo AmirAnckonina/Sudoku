@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\main.c(18,22): warning C4101: 'newPtrArrSize': unreferenced local variable
+  Sudoku.c
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(575,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(592,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(603,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(857,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(930,24): warning C4101: 'player2_Name': unreferenced local variable
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(930,8): warning C4101: 'player1_Name': unreferenced local variable
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(1045,23): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Sudoku\Sudoku.c(1046,32): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  Generating Code...
+  Sudoku.vcxproj -> C:\Users\amira\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Archive\Sem summer - 2021\Sudoku\Sudoku\Debug\Sudoku.exe
