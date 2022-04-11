@@ -87,11 +87,11 @@ Handling invalid move
 
 Single Player Lost
 
-![App Screenshot](https://github.com/AmirAnckonina/Sudoku/blob/695153cf8b5d20b8737c6ffb892fb8631812c613/Screenshots/PlayerLose.jpg)
+![App Screenshot](https://github.com/AmirAnckonina/Sudoku/blob/695153cf8b5d20b8737c6ffb892fb8631812c613/Screenshots/SingleLose.jpg)
 
 Single Player Won
 
-![App Screenshot](https://github.com/AmirAnckonina/Sudoku/blob/695153cf8b5d20b8737c6ffb892fb8631812c613/Screenshots/PlayerWon.jpg)
+![App Screenshot](https://github.com/AmirAnckonina/Sudoku/blob/695153cf8b5d20b8737c6ffb892fb8631812c613/Screenshots/SingleWin.jpg)
 
 End of the game - Winners list
 
