@@ -21,7 +21,7 @@ Enjoy :)
 Amir.
 
 ## Technologies
-- C++ Programming language 
+- C Programming language 
 - Visual Studio 2019 on Windows 10
 
 ## Rules
